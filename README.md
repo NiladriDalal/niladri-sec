@@ -17,9 +17,7 @@
 - Reporting: Markdown, JIRA, Confluence
 
 ## 📂 Featured Projects
-- [🔐 Redacted Pentest Report](link-to-report)
-- [⚙️ Secure API Microservice](link-to-repo)
-- [🧪 Web VAPT Lab Notes](link-to-repo)
+- [🔐 Redacted Pentest Report](https://github.com/niladri-sec/redacted-pentest-report)
 
 ## 📫 Let's Connect
 - 📧 niladri.dalal98@gmail.com
